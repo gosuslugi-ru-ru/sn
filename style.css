@@ -1,0 +1,21 @@
+div {
+    width: 448px;
+    height: 833px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    padding-top: 0;
+}
+
+@media (max-width: 463px) {
+
+    div {
+        width: 300px;
+        margin: 0 auto;
+    }
+}
